@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/BeauSef/liri-node-app/issues"
   },
-  "homepage": "https://github.com/BeauSef/liri-node-app#readme"
+  "homepage": "https://github.com/BeauSef/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bandsintown": "^1.0.1",
+    "dotenv": "^6.2.0",
+    "node-spotify-api": "^1.0.7",
+    "omdbapi": "^3.0.0",
+    "request": "^2.88.0",
+    "spotify": "^0.3.0"
+  }
 }
