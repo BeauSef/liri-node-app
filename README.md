@@ -5,21 +5,21 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 What this app will search for
 
     Bands in town
-Example- node liri.js concert-this 'band name'
-    Venue name: Kiss
-    Venue location: Vancouver
-    Date of Event: 01/19/2019
+Example- node liri.js concert-this 'band name'<br>
+    Venue name: Kiss<br>
+    Venue location: Vancouver<br>
+    Date of Event: 01/19/2019<br>
 
     Spotify
-Example- node liri.js spotify-this-song 'song name'
-    Artist(s): Adele
-    Song Name: Hello
-    Preview Song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a192c97e616f4ec1b84d10ef93003075
-    Album: 25
+Example- node liri.js spotify-this-song 'song name'<br>
+    Artist(s): Adele<br>
+    Song Name: Hello<br>
+    Preview Song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a192c97e616f4ec1b84d10ef93003075<br>   
+    Album: 25 <br>
 
     IMDB
-Example- node liri.js movie-this 'movie name'
-    Title: Contraband
+    Example- node liri.js movie-this 'movie name' 
+    Title: Contraband 
     Release Year: 2012
     Rating: 6.5
     Rotten Tomatoes: 51%
